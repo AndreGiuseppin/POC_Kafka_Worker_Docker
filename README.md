@@ -1,6 +1,6 @@
-1° - Passo a passo para iniciar o kafka e zookeper
- - Ter o docker instalado;
- - Abrir o CMD;
- - Acessar o caminho onde está localizado o arquivo docker-compose.yml;
- - Rodar docker-compose up.
+How start kafka and zookeper
+ - Need to have docker installed;
+ - Open CMD;
+ - Go to the path where docker-compose.yml is located;
+ - Run docker-compose up.
  
